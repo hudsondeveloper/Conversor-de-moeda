@@ -1,0 +1,11 @@
+.conversor {
+  background: beige;
+
+  display: inline-grid;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(192, 192, 192, 0.3);
+}
+
+.selectConversor {
+  margin-bottom: 10px;
+}
